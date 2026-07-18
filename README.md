@@ -57,7 +57,7 @@ ESP32-MQTT-Project_Manav
     ├── Project_Architecture.md
     └── Installation_Guide.md
 ```
-```
+
 ## How it Works 
 
 - The ESP32 connects to a wifi 
