@@ -1,0 +1,16 @@
+# VS Code Settings
+.vscode/
+
+# Build folders
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows cache
+Thumbs.db
+
+# macOS cache
+.DS_Store
